@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-1{
+    background-color: #185adb;
+    /* background: rgb(24,90,219);
+    background: linear-gradient(270deg, rgba(24,90,219,1) 9%, rgba(68,131,255,1) 100%);  */
+}
+.bg-2{
+    background-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+}
+.bg-3{
+    background-color: rgba(255, 255, 255, 0.85);
+}
+.bg-4{
+    background-color: #185adb;
+}
+.bgi{
+    background-image: url(../public/particle.png);
+    background-repeat: repeat;
+}
